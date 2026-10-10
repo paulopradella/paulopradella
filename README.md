@@ -4,7 +4,7 @@
 
 **IT Manager · Data Analyst · Fullstack Developer**
 
-Known as **Bode**. Background in Law, IT Management and Computer Forensics — I work from the belief that if you only understand one field, you don't fully understand even that one.
+Known as **P.H.R.P.**. Background in Law, IT Management and Computer Forensics — I work from the belief that if you only understand one field, you don't fully understand even that one.
 
 </div>
 
