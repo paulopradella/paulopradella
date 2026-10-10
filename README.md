@@ -1,42 +1,58 @@
 <div align="center">
+  <img src="monograma.png" width="130" alt="Monograma PHRP" />
 
-# Hey, I'm Paulo 👋
+  <h1>Paulo Henrique Rodrigues Pradella</h1>
 
-**IT Manager · Data Analyst · Fullstack Developer**
-
-Known as **P.H.R.P.**. Background in Law, IT Management and Computer Forensics — I work from the belief that if you only understand one field, you don't fully understand even that one.
-
+  <strong>IT Manager · Data Analyst · Fullstack Developer</strong>
+  <br/>
+  <sub>Curitiba, Brazil</sub>
 </div>
 
----
+<br/>
 
-### About me
-
-Based in Curitiba, Brazil. I work across IT management, data analysis (dashboards and spreadsheets as a data layer) and fullstack development, with a habit of questioning how things are built instead of just shipping them.
-
-- 🔭 Currently building internal dashboards and management tools (HR, inventory, data analysis)
-- 🌱 Learning Data Science (Hashtag Treinamentos)
-- 💬 Ask me about dashboards, IT management or mobile development (React Native)
-- 📫 Reach me at **paulohrpradella@gmail.com**
-
-### Tech stack
-
-<p>
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-  <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+<p align="center">
+  Background in Law, IT Management and Computer Forensics — I work from the belief that if you only understand one field, you don't fully understand even that one. I work across IT management, data analysis (dashboards and spreadsheets as a data layer) and fullstack development, with a habit of questioning how things are built instead of just shipping them.
 </p>
 
-### GitHub stats
+<br/>
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+**Now**
+- 🔭 Building internal dashboards and management tools (HR, inventory, data analysis)
+- 🌱 Learning Data Science (Hashtag Treinamentos)
+
+</td>
+<td valign="top" width="50%">
+
+**Reach me**
+- 💬 Dashboards, IT management, mobile (React Native)
+- 📫 paulohrpradella@gmail.com
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=paulopradella&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Paulo's GitHub stats"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopradella&layout=compact&langs_count=7&theme=dark" alt="Top languages"/>
+  <img align="center" alt="JavaScript" height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>&nbsp;&nbsp;
+  <img align="center" alt="React" height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>&nbsp;&nbsp;
+  <img align="center" alt="HTML5" height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>&nbsp;&nbsp;
+  <img align="center" alt="CSS3" height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>&nbsp;&nbsp;
+  <img align="center" alt="Python" height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
 </div>
 
-### Let's connect
+<br/>
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=paulopradella&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopradella&layout=compact&langs_count=7&theme=dark&hide_border=true" alt="Top languages"/>
+</div>
+
+<br/>
 
 <div align="center">
 
