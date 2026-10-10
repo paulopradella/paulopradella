@@ -1,42 +1,48 @@
-### Hi there 👋
-
-<!--
-**paulopradella/paulopradella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- ## Paulo Henrique, Bode, Kiwi... Existem várias formas de me chamar... Não estou aqui para fazer volume, meu objetivo é fazer a diferença, ganhar experiência e passar a minha experiência. Se é isso que busca, está no lugar certo, mas se quer só mais um, obrigado pela visita! -->
-## Hey!!! Welcome... My name is Paulo Henrique, but I'm known as Bode, I'm looking for knowledge and work.
 <div align="center">
-  <a href="https://github.com/paulopradella">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=paulopradella&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopradella&layout=compact&langs_count=7&theme=dark"/>
+
+# Hey, I'm Paulo 👋
+
+**IT Manager · Data Analyst · Fullstack Developer**
+
+Known as **Bode**. Background in Law, IT Management and Computer Forensics — I work from the belief that if you only understand one field, you don't fully understand even that one.
+
 </div>
-<Bode style="display: inline_block"><br>
-  <img align="center" alt="Bode-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Bode-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Bode-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bode-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bode-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</Bode
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/paulohrpradella/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://open.spotify.com/user/12182988856?si=f904477f23b14c9b" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-  <a href = "mailto:paulohrpradella@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/paulohrpradella/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  <!-- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  -->
+
+---
+
+### About me
+
+Based in Curitiba, Brazil. I work across IT management, data analysis (dashboards and spreadsheets as a data layer) and fullstack development, with a habit of questioning how things are built instead of just shipping them.
+
+- 🔭 Currently building internal dashboards and management tools (HR, inventory, data analysis)
+- 🌱 Learning Data Science (Hashtag Treinamentos)
+- 💬 Ask me about dashboards, IT management or mobile development (React Native)
+- 📫 Reach me at **paulohrpradella@gmail.com**
+
+### Tech stack
+
+<p>
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+  <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+</p>
+
+### GitHub stats
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=paulopradella&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Paulo's GitHub stats"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopradella&layout=compact&langs_count=7&theme=dark" alt="Top languages"/>
+</div>
+
+### Let's connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulohrpradella/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulohrpradella@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulohrpradella/)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12182988856?si=f904477f23b14c9b)
+
 </div>
